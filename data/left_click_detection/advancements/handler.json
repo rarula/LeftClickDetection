@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:magma_cube",
+                    "nbt": "{Tags:[\"LCD.Entity\"]}"
+                }
+            }
+        }
+    }
+}
