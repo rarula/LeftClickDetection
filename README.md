@@ -1,0 +1,2 @@
+# LeftClickDetection
+左クリックを検知するためのデータパック
